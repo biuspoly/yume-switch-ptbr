@@ -19,6 +19,9 @@ para jogá-lo no Nintendo Switch com custom firmware, usando o [Carafe](https://
 
 Faça backup da pasta do jogo antes de começar.
 
+Baixe este repositório pelo botão verde **Code → Download ZIP** no alto da página. Extraia o zip e copie
+os arquivos de dentro da pasta `yume-switch-ptbr-main` para a pasta do jogo, ao lado do `Frog.exe`.
+
 ### 1.1 Tradução para PT-BR
 Requer [Python 3](https://www.python.org/downloads/).
 ```bat
