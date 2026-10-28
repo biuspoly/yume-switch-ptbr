@@ -55,7 +55,7 @@ Sem Python: clique com o botão direito em `patch_frog.ps1` e escolha **Executar
 ou rode `powershell -ExecutionPolicy Bypass -File patch_frog.ps1 "C:\caminho\do\Yume\Frog.exe"`.
 O patch só é aplicado se o seu `Frog.exe` for exatamente a versão conhecida (o script confere o MD5).
 
-> Status: a causa foi encontrada no código do jogo, mas o patch ainda está **em teste** no Switch.
+> Status: testado no Switch. Com o patch, tocar na fase (ou clicar nela) entra normalmente.
 
 ## 2. Criar o NSP no Carafe
 
